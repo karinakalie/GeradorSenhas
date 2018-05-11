@@ -1,3 +1,4 @@
+Controller\SenhasNormais.class
 View\HomeView.class
-Controller\GerarSenhas.class
-View\ClienteView.class
+Controller\ControleSenhas.class
+Controller\SenhasPreferenciais.class
